@@ -1,0 +1,15 @@
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/bin/Debug/net6.0/MethodsAdvance
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/bin/Debug/net6.0/MethodsAdvance.deps.json
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/bin/Debug/net6.0/MethodsAdvance.runtimeconfig.json
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/bin/Debug/net6.0/MethodsAdvance.dll
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/bin/Debug/net6.0/MethodsAdvance.pdb
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.csproj.AssemblyReference.cache
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.AssemblyInfoInputs.cache
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.AssemblyInfo.cs
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.dll
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/refint/MethodsAdvance.dll
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.pdb
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/MethodsAdvance.genruntimeconfig.cache
+/Users/sh1riyev/Desktop/MethodsAdvance/MethodsAdvance/obj/Debug/net6.0/ref/MethodsAdvance.dll
